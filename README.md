@@ -5,19 +5,21 @@ Hi there 👋 I'm <span style="color: #2d77c0">Batradz</span>.<br>I Develop Apps
 
 ## My stack:
 
-
+---
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Redux](https://img.shields.io/badge/rtk-%23493d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ---
+![Zustand](https://img.shields.io/badge/Zustand-23393d?style=for-the-badge)
+![Reactquery](https://img.shields.io/badge/React-query-%23323330?style=for-the-badge)
+![MobX](https://img.shields.io/badge/Mobx-23593d?style=for-the-badge)
+![Axios](https://img.shields.io/badge/axios-5a29e4?style=for-the-badge)
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Axios](https://img.shields.io/badge/axios-5a29e4?style=for-the-badge)
-![MobX](https://img.shields.io/badge/Mobx-23593d?style=for-the-badge)
 ![Solid](https://img.shields.io/badge/Solid-F9DC3e?style=for-the-badge&logoColor=c8c9cb)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
