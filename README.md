@@ -1,16 +1,17 @@
 <h1 style="color: rgba(243,238,187,0.82)" align="center">
-Hi there 👋 I'm <span style="color: #2d77c0">Batradz</span>.<br>I Develop Apps on <br> <span style="color: #2d77c0">React/Typescript</span>.
+Привет👋 Меня зовут <span style="color: #2d77c0">Batradz</span>.<br>Разрабатываю приложения на <br> <span style="color: #2d77c0">React/Typescript</span>.
   <br><br>
 </h1>
 
-## My stack:
+## Мой сте:
 
 ---
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Redux](https://img.shields.io/badge/rtk-%23493d88.svg?style=for-the-badge&logo=redux&logoColor=white)
----
 ![Zustand](https://img.shields.io/badge/Zustand-23393d?style=for-the-badge)
 ![Reactquery](https://img.shields.io/badge/React-query-%23323330?style=for-the-badge)
 ![MobX](https://img.shields.io/badge/Mobx-23593d?style=for-the-badge)
