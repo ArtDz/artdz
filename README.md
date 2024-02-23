@@ -1,9 +1,9 @@
 <h1 style="color: rgba(243,238,187,0.82)" align="center">
-Привет👋 Меня зовут <span style="color: #2d77c0">Batradz</span>.<br>Разрабатываю приложения на <br> <span style="color: #2d77c0">React/Typescript</span>.
+Привет👋 Меня зовут <span style="color: #2d77c0">Батрадз</span>.<br>Разрабатываю приложения на <br> <span style="color: #2d77c0">React/Typescript</span>.
   <br><br>
 </h1>
 
-## Мой сте:
+## Мой стек:
 
 ---
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
