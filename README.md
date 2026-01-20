@@ -3,10 +3,11 @@ Hello👋 My name is <span style="color: #2d77c0">Батрадз</span>.<br>I de
   <br><br>
 </h1>
 
-## Cтек:
+## Stack:
 
 ---
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=next&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
