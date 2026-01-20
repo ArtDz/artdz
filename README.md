@@ -1,5 +1,5 @@
 <h1 style="color: rgba(243,238,187,0.82)" align="center">
-Привет👋 Меня зовут <span style="color: #2d77c0">Батрадз</span>.<br>Разрабатываю приложения на <br> <span style="color: #2d77c0">React/Typescript</span>.
+Hello👋 My name is <span style="color: #2d77c0">Батрадз</span>.<br>I develop applications on <br> <span style="color: #2d77c0">React/Next/Typescript</span>.
   <br><br>
 </h1>
 
